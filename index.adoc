@@ -1,5 +1,8 @@
-= Cinderella
+= Cinderell
 
-==Charaktere
+== Charaktere
 
 include::characters/prinz.adoc[leveloffset=2]
+
+
+include::characters/lucifer.adoc[leveloffset=2]
